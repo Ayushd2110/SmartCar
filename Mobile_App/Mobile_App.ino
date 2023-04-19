@@ -27,7 +27,7 @@ int distance3;
 int safetyDistance3;
 
 // Take Authorization code
-// Go to the Project Settings (nut icon).
+
 char auth[] = "WBiTmA2wjrfOQzr_1RFdvRjnFcH-I5iL";
 char ssid[] = "TP_LINK"; // Your WiFi credentials.
 char pass[] = "parth1892"; // Set password to "" for open networks.
